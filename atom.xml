@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Echo</title>
+  
+  <subtitle>我认为人族很垃圾</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-30T12:08:06.906Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>EchoCN</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TIMBA</title>
+    <link href="http://yoursite.com/2017/09/30/TIMBA/"/>
+    <id>http://yoursite.com/2017/09/30/TIMBA/</id>
+    <published>2017-09-30T12:07:17.000Z</published>
+    <updated>2017-09-30T12:08:06.906Z</updated>
+    
+    <content type="html"><![CDATA[<p>#大家好<br>我认为人族十分垃圾  这是我第一个博客么么哒！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#大家好&lt;br&gt;我认为人族十分垃圾  这是我第一个博客么么哒！&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
