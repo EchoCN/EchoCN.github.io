@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-30T14:56:01.617Z</updated>
+  <updated>2017-10-02T14:35:20.954Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有哪些「社会工程学」攻击手段？</title>
+    <link href="http://yoursite.com/2017/10/02/%E6%9C%89%E5%93%AA%E4%BA%9B%E3%80%8C%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6%E3%80%8D%E6%94%BB%E5%87%BB%E6%89%8B%E6%AE%B5%EF%BC%9F/"/>
+    <id>http://yoursite.com/2017/10/02/有哪些「社会工程学」攻击手段？/</id>
+    <published>2017-10-02T14:32:29.000Z</published>
+    <updated>2017-10-02T14:35:20.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>#社会工程是个很大的话题，这篇文章只考虑其中一个点——私人信息获取。<br>①基础数据的获取<br>②技术手段<br>③搜索引擎搜索<br>④直接搜索<br>接下来是一次社会工程的基本流程，先必须掌握某个被攻击人的基础数据，比如名字，QQ，生辰籍贯等。然后利用技术手段通过这些原始数据掌握到关于被攻击人或是与被攻击人共同经历过某段时间的中间人，一个掌握数据的社会工程师在第二个阶段就基本能获取到需要的所有信息，就避免了第三步伪造中间人。第三步作为对第二步的错误信息筛选和更多信息的获取作为跳板，通过伪造成被攻击者认识的人套取他的消息，这里的前提就是对中间人也要有所熟悉，所以一般社会工程中，中间人会不只一个，但是最终的指向都是认识被攻击者但是关系不是很亲近的人。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#社会工程是个很大的话题，这篇文章只考虑其中一个点——私人信息获取。&lt;br&gt;①基础数据的获取&lt;br&gt;②技术手段&lt;br&gt;③搜索引擎搜索&lt;br&gt;④直接搜索&lt;br&gt;接下来是一次社会工程的基本流程，先必须掌握某个被攻击人的基础数据，比如名字，QQ，生辰籍贯等。然后利用技术手段通过这
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>马尔克斯语录</title>
